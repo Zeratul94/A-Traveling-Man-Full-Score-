@@ -9,12 +9,4 @@ I hope you enjoy!
 
 ## License
 
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-[![CC BY-SA 4.0](https://licensebuttons.net)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-### What this means for musicians and creators:
-* **Share:** You are free to copy, distribute, and perform this musical score, subject to the Attribution requirements.
-* **Adapt:** You are free to remix, rearrange, or build upon this music (e.g., orchestrate it for different instruments) in accordance with the ShareAlike requirements.
-* **Attribution:** You must give appropriate credit to the author.
-* **ShareAlike:** If you remix or alter this music, you must distribute your contributions under this exact same license.
+This work is protected under copyright. I am working on the exact licensing agreement I will use, which will be considerably more open (akin to the [Creative Commons Attribution-ShareAike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) in many ways). Please contact me with any questions; I don't bite!
