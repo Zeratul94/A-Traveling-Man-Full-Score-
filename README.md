@@ -9,9 +9,9 @@ I hope you enjoy!
 
 ## License
 
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org).
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-[![CC BY-SA 4.0](https://licensebuttons.net)](http://creativecommons.org)
+[![CC BY-SA 4.0](https://licensebuttons.net)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### What this means for musicians and creators:
 * **Share:** You are free to copy, distribute, and perform this musical score, subject to the Attribution requirements.
